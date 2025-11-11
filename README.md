@@ -1,8 +1,5 @@
 # ICE-9 Visualization Project
 
-**Author:** Sowjanya Teppali  
-**Student ID:** 11857046  
-**Course:** ICE-9 — Data Visualization  
 
 **Tools Used:** Python (Jupyter Notebook), Altair, HTML, CSS  
 
@@ -125,4 +122,4 @@ The project demonstrates clear patterns of company expansion and highlights the 
 
 ---
 
-**© 2025 Sowjanya Teppali — ICE-9 Project**
+**© 2025 Srinath Reddy Mucha — ICE-9 Project**
